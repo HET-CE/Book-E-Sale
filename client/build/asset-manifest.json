@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5aa0053.css",
+    "main.js": "/static/js/main.48cbaf13.js",
+    "static/media/lotsOfBooks.jpg": "/static/media/lotsOfBooks.4257a2232ff44540e7ce.jpg",
+    "static/media/logo.jpg": "/static/media/logo.4630d1a880a8cd90135c.jpg",
+    "index.html": "/index.html",
+    "main.f5aa0053.css.map": "/static/css/main.f5aa0053.css.map",
+    "main.48cbaf13.js.map": "/static/js/main.48cbaf13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5aa0053.css",
+    "static/js/main.48cbaf13.js"
+  ]
+}
